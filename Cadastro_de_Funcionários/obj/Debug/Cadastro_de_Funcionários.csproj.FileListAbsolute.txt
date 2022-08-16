@@ -1,0 +1,8 @@
+D:\programas_c#\POO\09\Cadastro_de_Funcionários\Cadastro_de_Funcionários\bin\Debug\Cadastro_de_Funcionários.exe.config
+D:\programas_c#\POO\09\Cadastro_de_Funcionários\Cadastro_de_Funcionários\bin\Debug\Cadastro_de_Funcionários.exe
+D:\programas_c#\POO\09\Cadastro_de_Funcionários\Cadastro_de_Funcionários\bin\Debug\Cadastro_de_Funcionários.pdb
+D:\programas_c#\POO\09\Cadastro_de_Funcionários\Cadastro_de_Funcionários\obj\Debug\Cadastro_de_Funcionários.csproj.AssemblyReference.cache
+D:\programas_c#\POO\09\Cadastro_de_Funcionários\Cadastro_de_Funcionários\obj\Debug\Cadastro_de_Funcionários.csproj.SuggestedBindingRedirects.cache
+D:\programas_c#\POO\09\Cadastro_de_Funcionários\Cadastro_de_Funcionários\obj\Debug\Cadastro_de_Funcionários.csproj.CoreCompileInputs.cache
+D:\programas_c#\POO\09\Cadastro_de_Funcionários\Cadastro_de_Funcionários\obj\Debug\Cadastro_de_Funcionários.exe
+D:\programas_c#\POO\09\Cadastro_de_Funcionários\Cadastro_de_Funcionários\obj\Debug\Cadastro_de_Funcionários.pdb
